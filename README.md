@@ -3,7 +3,7 @@ Hunger Games plugin for Pocketmine-MP
 
 PocketMine-MP Plugin 
 HungerGames
-Author: TuffDev
+Author: FrozenCreeper
 
 General Description:  This is a Survival Games mini-game plugin to be used for PocketMine servers.  The Survival Games mini-game runs as a follows:
 
